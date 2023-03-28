@@ -1,4 +1,4 @@
 [demoservers]
-34.205.69.199 ansible_user=ec2-user
-44.204.46.113 ansible_user=ec2-user
-44.204.61.122 ansible_user=ec2-user
+3.237.234.201 ansible_user=ec2-user
+35.172.33.177 ansible_user=ec2-user
+3.237.66.30 ansible_user=ec2-user
