@@ -1,4 +1,4 @@
 [demoservers]
-3.237.234.201 ansible_user=ec2-user
-35.172.33.177 ansible_user=ec2-user
-3.237.66.30 ansible_user=ec2-user
+3.237.234.201  ansible_ssh_private_key_file=ansibleserverkeys.pem ansible_user=ec2-user
+35.172.33.177 ansiblansible_ssh_private_key_file=ansibleserverkeys.pem e_user=ec2-user
+3.237.66.30 ansible_ssh_private_key_file=ansibleserverkeys.pem ansible_user=ec2-user
